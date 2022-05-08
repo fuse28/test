@@ -1,0 +1,51 @@
+.numbers {
+  padding: 10px;
+  background: rgb(215, 49, 109);
+  background: radial-gradient(
+    circle,
+    rgba(215, 49, 109, 1) 32%,
+    rgba(6, 45, 171, 1) 49%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  display: flex;
+  height: 40px;
+  width: 700px;
+  position: relative;
+  margin-top: 700px;
+  margin-left: 100px;
+  right: 1000px;
+
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.btn1:hover {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(184, 15, 15);
+  color: wheat;
+}
+.btn2:hover {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(184, 15, 15);
+  color: wheat;
+}
+.btn3:hover {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(184, 15, 15);
+  color: wheat;
+}
+.btn4:hover {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(184, 15, 15);
+  color: wheat;
+}
+.btn5:hover {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(184, 15, 15);
+  color: wheat;
+}

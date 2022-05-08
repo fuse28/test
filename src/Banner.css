@@ -1,0 +1,21 @@
+.container {
+  margin-top: 50px;
+  margin-right: 100px;
+  width: 950px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 10px;
+  color: white;
+
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 25%,
+    rgba(144, 6, 171, 1) 52%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.lead {
+  font-size: 25px;
+}
